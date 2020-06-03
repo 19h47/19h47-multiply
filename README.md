@@ -1,6 +1,6 @@
 # @19h47/multiply
 
-**@19h47/sum** is a small module to sum numbers.
+**@19h47/multiply** is a small module to multiply numbers.
 
 ```javascript
 import sum from '@19h47/multiply';
