@@ -3,9 +3,9 @@
 **@19h47/multiply** is a small module to multiply numbers.
 
 ```javascript
-import sum from '@19h47/multiply';
+import multiply from '@19h47/multiply';
 
-sum(2, 1); // 1
+multiply(2, 5); // 10
 ```
 
 ## Test

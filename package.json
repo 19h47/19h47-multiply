@@ -1,6 +1,6 @@
 {
 	"name": "@19h47/multiply",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "multiply",
 	"main": "index.js",
 	"scripts": {
